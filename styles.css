@@ -1,3 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 
+.highlighed{
+	background-color: yellow;
+	font-size: 26px;
+	
+}
