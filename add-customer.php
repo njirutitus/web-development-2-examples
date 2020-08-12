@@ -20,7 +20,7 @@
             
             ?>
         </div>
-        <form action="register.php" method="post">
+        <form action="add.php" method="post">
             <table>
                 <tr>
                     <td>First Name</td>

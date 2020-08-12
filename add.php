@@ -21,7 +21,7 @@
         try{
             $STH->execute();
             $_SESSION['success'] = "Customer Added Successfully";
-            header('location: index.php');
+            header('location: customers.php');
         }
         catch(PDOExpection $e){
             $_SESSION['error'] =  $e->getMessage();
