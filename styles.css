@@ -6,3 +6,11 @@
 	font-size: 26px;
 	
 }
+
+table,td,tr,th,a{
+	border: 1px solid black;
+}
+
+table{
+	border-collapse: collapse;
+}
